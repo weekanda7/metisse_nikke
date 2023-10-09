@@ -1,7 +1,0 @@
-2023-10-09 15:10:27 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
-2023-10-09 15:10:28 - MetisClass_logger - INFO - image_recognition method : template_name=menu_front_line_base  prob=0.8921 accuracy_val=0.9000 False
-2023-10-09 15:10:31 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
-2023-10-09 15:10:31 - MetisClass_logger - INFO - image_recognition method : template_name=menu_front_line_base  prob=0.9033 accuracy_val=0.9000 True
-2023-10-09 15:10:32 - MetisClass_logger - INFO - tap method : (x,y) = (147, 1773) offset = (0, 0)
-2023-10-09 15:10:32 - MetisClass_logger - INFO - default_tap method : template_name=menu_front_line_base  prob=0.9033 True
-2023-10-09 15:10:32 - MetisClass_logger - INFO - execute_time_sleep : wait_time= 15.00

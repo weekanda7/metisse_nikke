@@ -1,3 +1,0 @@
-2023-10-04 08:04:02 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
-2023-10-04 08:04:02 - MetisClass_logger - INFO - image_recognition method : template_name=ready_for_login  prob=0.1609 accuracy_val=0.9000 False
-2023-10-04 08:04:02 - MetisClass_logger - INFO - execute_time_sleep : wait_time= 5.00

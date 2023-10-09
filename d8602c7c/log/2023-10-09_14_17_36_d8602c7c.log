@@ -1,9 +1,0 @@
-2023-10-09 14:17:39 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
-2023-10-09 14:17:39 - MetisClass_logger - INFO - image_recognition method : template_name=menu_non_paid_store  prob=0.9929 accuracy_val=0.9000 True
-2023-10-09 14:17:40 - MetisClass_logger - INFO - tap method : (x,y) = (151, 1550) offset = (0, 0)
-2023-10-09 14:17:40 - MetisClass_logger - INFO - default_tap method : template_name=menu_non_paid_store  prob=0.9929 True
-2023-10-09 14:17:43 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
-2023-10-09 14:17:43 - MetisClass_logger - INFO - image_recognition method : template_name=nps_com_store_free  prob=0.9974 accuracy_val=0.9000 True
-2023-10-09 14:17:44 - MetisClass_logger - INFO - tap method : (x,y) = (495, 1489) offset = (0, 0)
-2023-10-09 14:17:44 - MetisClass_logger - INFO - default_tap method : template_name=nps_com_store_free  prob=0.9974 True
-2023-10-09 14:17:46 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0

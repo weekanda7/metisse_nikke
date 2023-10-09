@@ -1,4 +1,0 @@
-2023-10-09 14:15:38 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
-2023-10-09 14:15:38 - MetisClass_logger - INFO - image_recognition method : template_name=menu_paid_store  prob=0.9970 accuracy_val=0.9000 True
-2023-10-09 14:15:39 - MetisClass_logger - INFO - tap method : (x,y) = (235, 1409) offset = (0, 0)
-2023-10-09 14:15:39 - MetisClass_logger - INFO - default_tap method : template_name=menu_paid_store  prob=0.9970 True
