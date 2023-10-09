@@ -1,0 +1,8 @@
+2023-10-09 15:16:47 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:16:47 - MetisClass_logger - INFO - image_recognition method : template_name=menu_friend_icon  prob=0.9994 accuracy_val=0.9000 True
+2023-10-09 15:16:48 - MetisClass_logger - INFO - tap method : (x,y) = (1377, 546) offset = (0, 0)
+2023-10-09 15:16:48 - MetisClass_logger - INFO - default_tap method : template_name=menu_friend_icon  prob=0.9994 True
+2023-10-09 15:16:51 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:16:51 - MetisClass_logger - INFO - image_recognition method : template_name=friend_send  prob=0.9988 accuracy_val=0.9000 True
+2023-10-09 15:16:52 - MetisClass_logger - INFO - tap method : (x,y) = (1027, 1921) offset = (0, 0)
+2023-10-09 15:16:52 - MetisClass_logger - INFO - default_tap method : template_name=friend_send  prob=0.9988 True

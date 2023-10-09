@@ -1,0 +1,16 @@
+__pycache__/
+*.gz
+*.txt
+.DS_Store
+.pytest_cache
+.idea/
+.env
+.venv/
+.vscode/
+archived_files/
+archived_logs/
+latest_logs/
+report/
+report.xml
+test_result/
+downloaded_files/

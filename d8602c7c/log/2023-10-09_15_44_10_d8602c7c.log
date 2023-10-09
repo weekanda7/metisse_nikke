@@ -1,0 +1,37 @@
+2023-10-09 15:44:14 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:44:14 - MetisClass_logger - INFO - image_recognition method : template_name=menu_draw_icon  prob=0.9417 accuracy_val=0.9000 True
+2023-10-09 15:44:15 - MetisClass_logger - INFO - tap method : (x,y) = (1196, 2097) offset = (0, 0)
+2023-10-09 15:44:15 - MetisClass_logger - INFO - default_tap method : template_name=menu_draw_icon  prob=0.9417 True
+2023-10-09 15:44:17 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:44:17 - MetisClass_logger - INFO - image_recognition method : template_name=draw_friend_icon  prob=0.7396 accuracy_val=0.9000 False
+2023-10-09 15:44:20 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:44:21 - MetisClass_logger - INFO - image_recognition method : template_name=draw_friend_icon  prob=0.7403 accuracy_val=0.9000 False
+2023-10-09 15:44:23 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:44:24 - MetisClass_logger - INFO - image_recognition method : template_name=draw_friend_icon  prob=0.7393 accuracy_val=0.9000 False
+2023-10-09 15:44:24 - MetisClass_logger - INFO - default_tap method : template_name=draw_friend_icon  prob=0.7393 False
+2023-10-09 15:44:27 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:44:27 - MetisClass_logger - INFO - image_recognition method : template_name=draw_right_icon  prob=0.9964 accuracy_val=0.9000 True
+2023-10-09 15:44:28 - MetisClass_logger - INFO - tap method : (x,y) = (1425, 1183) offset = (0, 0)
+2023-10-09 15:44:28 - MetisClass_logger - INFO - default_tap method : template_name=draw_right_icon  prob=0.9964 True
+2023-10-09 15:44:30 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:44:31 - MetisClass_logger - INFO - image_recognition method : template_name=draw_friend_icon  prob=0.7051 accuracy_val=0.9000 False
+2023-10-09 15:44:33 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:44:34 - MetisClass_logger - INFO - image_recognition method : template_name=draw_friend_icon  prob=0.7048 accuracy_val=0.9000 False
+2023-10-09 15:44:36 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:44:37 - MetisClass_logger - INFO - image_recognition method : template_name=draw_friend_icon  prob=0.7050 accuracy_val=0.9000 False
+2023-10-09 15:44:37 - MetisClass_logger - INFO - default_tap method : template_name=draw_friend_icon  prob=0.7050 False
+2023-10-09 15:44:39 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:44:39 - MetisClass_logger - INFO - image_recognition method : template_name=draw_right_icon  prob=0.9970 accuracy_val=0.9000 True
+2023-10-09 15:44:40 - MetisClass_logger - INFO - tap method : (x,y) = (1425, 1183) offset = (0, 0)
+2023-10-09 15:44:40 - MetisClass_logger - INFO - default_tap method : template_name=draw_right_icon  prob=0.9970 True
+2023-10-09 15:44:43 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:44:43 - MetisClass_logger - INFO - image_recognition method : template_name=draw_friend_icon  prob=0.9990 accuracy_val=0.9000 True
+2023-10-09 15:44:44 - MetisClass_logger - INFO - tap method : (x,y) = (588, 1860) offset = (0, 0)
+2023-10-09 15:44:44 - MetisClass_logger - INFO - default_tap method : template_name=draw_friend_icon  prob=0.9990 True
+2023-10-09 15:44:46 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:44:46 - MetisClass_logger - INFO - image_recognition method : template_name=menu_main  prob=0.2787 accuracy_val=0.9000 False
+2023-10-09 15:44:48 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:44:49 - MetisClass_logger - INFO - image_recognition method : template_name=menu_main  prob=0.4862 accuracy_val=0.9000 False
+2023-10-09 15:44:51 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:44:52 - MetisClass_logger - INFO - image_recognition method : template_name=menu_main  prob=0.5485 accuracy_val=0.9000 False
+2023-10-09 15:44:52 - MetisClass_logger - INFO - default_tap method : template_name=menu_main  prob=0.5485 False

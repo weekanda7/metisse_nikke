@@ -1,0 +1,55 @@
+2023-10-09 14:55:55 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 14:55:56 - MetisClass_logger - INFO - image_recognition method : template_name=menu_non_paid_store  prob=0.9925 accuracy_val=0.9000 True
+2023-10-09 14:55:56 - MetisClass_logger - INFO - tap method : (x,y) = (151, 1550) offset = (0, 0)
+2023-10-09 14:55:56 - MetisClass_logger - INFO - default_tap method : template_name=menu_non_paid_store  prob=0.9925 True
+2023-10-09 14:55:59 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 14:56:00 - MetisClass_logger - INFO - image_recognition method : template_name=nps_arena_tab  prob=0.9988 accuracy_val=0.9000 True
+2023-10-09 14:56:00 - MetisClass_logger - INFO - tap method : (x,y) = (87, 1423) offset = (0, 0)
+2023-10-09 14:56:00 - MetisClass_logger - INFO - default_tap method : template_name=nps_arena_tab  prob=0.9988 True
+2023-10-09 14:56:03 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 14:56:03 - MetisClass_logger - INFO - image_recognition method : template_name=nps_arena_store_wind  prob=0.8044 accuracy_val=0.9000 False
+2023-10-09 14:56:06 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 14:56:07 - MetisClass_logger - INFO - image_recognition method : template_name=nps_arena_store_wind  prob=0.8046 accuracy_val=0.9000 False
+2023-10-09 14:56:10 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 14:56:10 - MetisClass_logger - INFO - image_recognition method : template_name=nps_arena_store_wind  prob=0.8045 accuracy_val=0.9000 False
+2023-10-09 14:56:10 - MetisClass_logger - INFO - default_tap method : template_name=nps_arena_store_wind  prob=0.8045 False
+2023-10-09 14:56:13 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 14:56:13 - MetisClass_logger - INFO - image_recognition method : template_name=nps_arena_store_lightning  prob=0.9958 accuracy_val=0.9000 True
+2023-10-09 14:56:14 - MetisClass_logger - INFO - tap method : (x,y) = (828, 1302) offset = (0, 0)
+2023-10-09 14:56:14 - MetisClass_logger - INFO - default_tap method : template_name=nps_arena_store_lightning  prob=0.9958 True
+2023-10-09 14:56:16 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 14:56:17 - MetisClass_logger - INFO - image_recognition method : template_name=nps_com_store_buy  prob=0.9730 accuracy_val=0.9000 True
+2023-10-09 14:56:17 - MetisClass_logger - INFO - tap method : (x,y) = (913, 1865) offset = (0, 0)
+2023-10-09 14:56:17 - MetisClass_logger - INFO - default_tap method : template_name=nps_com_store_buy  prob=0.9730 True
+2023-10-09 14:56:19 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 14:56:20 - MetisClass_logger - INFO - image_recognition method : template_name=reward_text  prob=0.9967 accuracy_val=0.9000 True
+2023-10-09 14:56:21 - MetisClass_logger - INFO - tap method : (x,y) = (742, 905) offset = (0, 0)
+2023-10-09 14:56:21 - MetisClass_logger - INFO - default_tap method : template_name=reward_text  prob=0.9967 True
+2023-10-09 14:56:23 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 14:56:24 - MetisClass_logger - INFO - image_recognition method : template_name=nps_arena_store_water  prob=0.9969 accuracy_val=0.9000 True
+2023-10-09 14:56:24 - MetisClass_logger - INFO - tap method : (x,y) = (488, 1301) offset = (0, 0)
+2023-10-09 14:56:24 - MetisClass_logger - INFO - default_tap method : template_name=nps_arena_store_water  prob=0.9969 True
+2023-10-09 14:56:27 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 14:56:27 - MetisClass_logger - INFO - image_recognition method : template_name=nps_com_store_buy  prob=0.9730 accuracy_val=0.9000 True
+2023-10-09 14:56:28 - MetisClass_logger - INFO - tap method : (x,y) = (913, 1865) offset = (0, 0)
+2023-10-09 14:56:28 - MetisClass_logger - INFO - default_tap method : template_name=nps_com_store_buy  prob=0.9730 True
+2023-10-09 14:56:30 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 14:56:31 - MetisClass_logger - INFO - image_recognition method : template_name=reward_text  prob=0.9967 accuracy_val=0.9000 True
+2023-10-09 14:56:31 - MetisClass_logger - INFO - tap method : (x,y) = (742, 905) offset = (0, 0)
+2023-10-09 14:56:31 - MetisClass_logger - INFO - default_tap method : template_name=reward_text  prob=0.9967 True
+2023-10-09 14:56:34 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 14:56:35 - MetisClass_logger - INFO - image_recognition method : template_name=nps_arena_store_box  prob=0.9981 accuracy_val=0.9000 True
+2023-10-09 14:56:35 - MetisClass_logger - INFO - tap method : (x,y) = (496, 1838) offset = (0, 0)
+2023-10-09 14:56:35 - MetisClass_logger - INFO - default_tap method : template_name=nps_arena_store_box  prob=0.9981 True
+2023-10-09 14:56:38 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 14:56:38 - MetisClass_logger - INFO - image_recognition method : template_name=nps_com_store_buy  prob=0.9731 accuracy_val=0.9000 True
+2023-10-09 14:56:39 - MetisClass_logger - INFO - tap method : (x,y) = (913, 1865) offset = (0, 0)
+2023-10-09 14:56:39 - MetisClass_logger - INFO - default_tap method : template_name=nps_com_store_buy  prob=0.9731 True
+2023-10-09 14:56:41 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 14:56:41 - MetisClass_logger - INFO - image_recognition method : template_name=reward_text  prob=0.9967 accuracy_val=0.9000 True
+2023-10-09 14:56:42 - MetisClass_logger - INFO - tap method : (x,y) = (742, 905) offset = (0, 0)
+2023-10-09 14:56:42 - MetisClass_logger - INFO - default_tap method : template_name=reward_text  prob=0.9967 True
+2023-10-09 14:56:45 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 14:56:45 - MetisClass_logger - INFO - image_recognition method : template_name=home_icon  prob=0.9980 accuracy_val=0.9000 True
+2023-10-09 14:56:46 - MetisClass_logger - INFO - tap method : (x,y) = (349, 2136) offset = (0, 0)
+2023-10-09 14:56:46 - MetisClass_logger - INFO - default_tap method : template_name=home_icon  prob=0.9980 True

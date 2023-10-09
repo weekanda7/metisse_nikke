@@ -1,0 +1,18 @@
+2023-10-04 08:05:50 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-04 08:05:50 - MetisClass_logger - INFO - image_recognition method : template_name=ready_for_login  prob=0.2272 accuracy_val=0.9000 False
+2023-10-04 08:05:50 - MetisClass_logger - INFO - execute_time_sleep : wait_time= 5.00
+2023-10-04 08:05:57 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-04 08:05:57 - MetisClass_logger - INFO - image_recognition method : template_name=menu_check_flag  prob=0.2006 accuracy_val=0.9000 False
+2023-10-04 08:05:57 - MetisClass_logger - INFO - default_tap method : template_name=menu_check_flag  prob=0.2006 False
+2023-10-04 08:05:58 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-04 08:05:59 - MetisClass_logger - INFO - image_recognition method : template_name=ready_for_login  prob=0.1779 accuracy_val=0.9000 False
+2023-10-04 08:05:59 - MetisClass_logger - INFO - execute_time_sleep : wait_time= 5.00
+2023-10-04 08:06:06 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-04 08:06:06 - MetisClass_logger - INFO - image_recognition method : template_name=menu_check_flag  prob=0.2731 accuracy_val=0.9000 False
+2023-10-04 08:06:06 - MetisClass_logger - INFO - default_tap method : template_name=menu_check_flag  prob=0.2731 False
+2023-10-04 08:06:09 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-04 08:06:09 - MetisClass_logger - INFO - image_recognition method : template_name=ready_for_login  prob=0.1761 accuracy_val=0.9000 False
+2023-10-04 08:06:09 - MetisClass_logger - INFO - execute_time_sleep : wait_time= 5.00
+2023-10-04 08:06:16 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-04 08:06:16 - MetisClass_logger - INFO - image_recognition method : template_name=menu_check_flag  prob=0.3322 accuracy_val=0.9000 False
+2023-10-04 08:06:16 - MetisClass_logger - INFO - default_tap method : template_name=menu_check_flag  prob=0.3322 False

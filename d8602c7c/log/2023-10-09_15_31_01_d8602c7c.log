@@ -1,0 +1,32 @@
+2023-10-09 15:31:04 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:31:05 - MetisClass_logger - INFO - image_recognition method : template_name=menu_niki_list_icon  prob=0.9985 accuracy_val=0.9000 True
+2023-10-09 15:31:06 - MetisClass_logger - INFO - tap method : (x,y) = (297, 2091) offset = (0, 0)
+2023-10-09 15:31:06 - MetisClass_logger - INFO - default_tap method : template_name=menu_niki_list_icon  prob=0.9985 True
+2023-10-09 15:31:08 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:31:08 - MetisClass_logger - INFO - image_recognition method : template_name=niki_list_target1_avatar  prob=0.9976 accuracy_val=0.9000 True
+2023-10-09 15:31:09 - MetisClass_logger - INFO - tap method : (x,y) = (289, 822) offset = (0, 0)
+2023-10-09 15:31:09 - MetisClass_logger - INFO - default_tap method : template_name=niki_list_target1_avatar  prob=0.9976 True
+2023-10-09 15:31:12 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:31:12 - MetisClass_logger - INFO - image_recognition method : template_name=niki_detail_gear_icon  prob=0.9983 accuracy_val=0.9000 True
+2023-10-09 15:31:13 - MetisClass_logger - INFO - tap method : (x,y) = (1263, 1866) offset = (0, 0)
+2023-10-09 15:31:13 - MetisClass_logger - INFO - default_tap method : template_name=niki_detail_gear_icon  prob=0.9983 True
+2023-10-09 15:31:15 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:31:15 - MetisClass_logger - INFO - image_recognition method : template_name=niki_detail_gear_upgrade_icon  prob=1.0000 accuracy_val=0.9000 True
+2023-10-09 15:31:16 - MetisClass_logger - INFO - tap method : (x,y) = (647, 1986) offset = (0, 0)
+2023-10-09 15:31:16 - MetisClass_logger - INFO - default_tap method : template_name=niki_detail_gear_upgrade_icon  prob=1.0000 True
+2023-10-09 15:31:18 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:31:18 - MetisClass_logger - INFO - image_recognition method : template_name=niki_detail_gear_upgrade_common_element_icon  prob=1.0000 accuracy_val=0.9000 True
+2023-10-09 15:31:19 - MetisClass_logger - INFO - tap method : (x,y) = (331, 1124) offset = (0, 0)
+2023-10-09 15:31:19 - MetisClass_logger - INFO - default_tap method : template_name=niki_detail_gear_upgrade_common_element_icon  prob=1.0000 True
+2023-10-09 15:31:21 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:31:22 - MetisClass_logger - INFO - image_recognition method : template_name=niki_detail_gear_upgrade_confurm_icon  prob=1.0000 accuracy_val=0.9000 True
+2023-10-09 15:31:22 - MetisClass_logger - INFO - tap method : (x,y) = (892, 1908) offset = (0, 0)
+2023-10-09 15:31:22 - MetisClass_logger - INFO - default_tap method : template_name=niki_detail_gear_upgrade_confurm_icon  prob=1.0000 True
+2023-10-09 15:31:24 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:31:25 - MetisClass_logger - INFO - image_recognition method : template_name=close_blue_icon  prob=0.9555 accuracy_val=0.9000 True
+2023-10-09 15:31:25 - MetisClass_logger - INFO - tap method : (x,y) = (1249, 310) offset = (0, 0)
+2023-10-09 15:31:25 - MetisClass_logger - INFO - default_tap method : template_name=close_blue_icon  prob=0.9555 True
+2023-10-09 15:31:28 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-09 15:31:29 - MetisClass_logger - INFO - image_recognition method : template_name=home_icon  prob=0.9978 accuracy_val=0.9000 True
+2023-10-09 15:31:29 - MetisClass_logger - INFO - tap method : (x,y) = (349, 2136) offset = (0, 0)
+2023-10-09 15:31:29 - MetisClass_logger - INFO - default_tap method : template_name=home_icon  prob=0.9978 True

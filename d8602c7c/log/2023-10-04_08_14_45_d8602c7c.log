@@ -1,0 +1,13 @@
+2023-10-04 08:14:47 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-04 08:14:48 - MetisClass_logger - INFO - image_recognition method : template_name=menu_check_flag  prob=0.3378 accuracy_val=0.9000 False
+2023-10-04 08:14:48 - MetisClass_logger - INFO - default_tap method : template_name=menu_check_flag  prob=0.3378 False
+2023-10-04 08:14:50 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-04 08:14:50 - MetisClass_logger - INFO - image_recognition method : template_name=close_blue_icon  prob=1.0000 accuracy_val=0.9000 True
+2023-10-04 08:14:51 - MetisClass_logger - INFO - tap method : (x,y) = (1261, 229) offset = (0, 0)
+2023-10-04 08:14:51 - MetisClass_logger - INFO - default_tap method : template_name=close_blue_icon  prob=1.0000 True
+2023-10-04 08:14:54 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-04 08:14:54 - MetisClass_logger - INFO - image_recognition method : template_name=reward  prob=0.3445 accuracy_val=0.9000 False
+2023-10-04 08:14:54 - MetisClass_logger - INFO - default_tap method : template_name=reward  prob=0.3445 False
+2023-10-04 08:14:57 - MetisClass_logger - DEBUG - adb_screenshot method : process tmp0
+2023-10-04 08:14:58 - MetisClass_logger - INFO - image_recognition method : template_name=reward  prob=0.3432 accuracy_val=0.9000 False
+2023-10-04 08:14:58 - MetisClass_logger - INFO - default_tap method : template_name=reward  prob=0.3432 False
